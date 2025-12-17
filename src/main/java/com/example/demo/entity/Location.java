@@ -3,5 +3,7 @@
 public class Location{
     @id
     private Long id,
-    Pr
+    private String name,
+    private Double latitude,
+    private Double longitude
 }
